@@ -13,5 +13,5 @@ dependencies:
   - xarray
   - xlsxwriter
   - scipy
-  - osgeo
+  - gdal
 
