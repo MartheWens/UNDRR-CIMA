@@ -1,0 +1,17 @@
+name: droughtprofiles
+
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - xarray
+  - xlsxwriter
+  - scipy
+  - osgeo
+
