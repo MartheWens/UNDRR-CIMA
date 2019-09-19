@@ -1,5 +1,3 @@
 # UNDRR-CIMA
-Drought risk profile
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartheWens/UNDRR-CIMA/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/MartheWens/UNDRR-CIMA/master
+Script to produce drought risk profiles as done within the UNDRR Building Disaster Resilience to natural hazards in Sub-Saharan African Regions, Countries and Communities programme. Code prepared by th Institute of Environmental Studies, Free University Amsterdam (IVM - VU)
+
